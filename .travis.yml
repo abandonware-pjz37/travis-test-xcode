@@ -6,3 +6,4 @@ compiler:
 
 script:
     - xcodebuild -version
+    - xcrun --sdk iphoneos --show-sdk-platform-path
